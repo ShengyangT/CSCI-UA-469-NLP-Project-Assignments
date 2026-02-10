@@ -1,0 +1,12 @@
+---
+:id: 354222778
+:submitters:
+- :name: Shengyang Tao
+  :email: st5393@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-10-03 06:14:16.688706000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-10-02 23:14:16.688706000 Z
+:status: processed
+:score: 12.0
